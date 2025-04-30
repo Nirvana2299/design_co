@@ -693,6 +693,14 @@ ul {
 
 @media (max-width: 768px) {
 
+    .image-hero-absolute {
+        display: none;
+        position: relative;
+        left: 300px;
+        bottom: 0;
+        width: 100%;
+    }
+
     .newsletter {
         top: -145px;
         padding: 32px 24px;
